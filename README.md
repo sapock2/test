@@ -21,9 +21,8 @@
    ![image](https://user-images.githubusercontent.com/49747084/210039091-4b70c70c-fe5b-4f68-a5e6-225af00f5925.png)
 
  5. 해당 Provisioner 사용하는 pvc 생성 후 pvc 조회하여 확인
+  ![image](https://user-images.githubusercontent.com/121626006/210041858-51bd876d-9955-44b6-8b0b-36345addcbd1.png)
  
-  ![image](https://user-images.githubusercontent.com/49747084/210039179-1bff8e96-5ea4-4976-b218-fb72d4a29805.png)
-
  6. deployment.yaml 에 volume 정보 등록
  
   ![image](https://user-images.githubusercontent.com/49747084/210039235-a78b8c67-fdbb-4a11-9bb0-4bf612b76c79.png)
