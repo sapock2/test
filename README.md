@@ -6,5 +6,8 @@
   ![image](https://user-images.githubusercontent.com/49747084/210037842-2ad25cc6-30d4-43bd-8d33-5591d5fb1627.png)
 
 
- 2. ServiceAccount 생성 - default namespace 사용
+ 2. ServiceAccount 생성
+ - default namespace 사용
+ 
+  ![image](https://user-images.githubusercontent.com/49747084/210037938-282eb6a1-2cd1-4d68-b7e8-5cda0e819e97.png)
   ![image](https://user-images.githubusercontent.com/49747084/210038010-7421b7cb-f3d4-4ef2-b63a-379d33befcad.png)
